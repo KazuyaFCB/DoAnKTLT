@@ -1,0 +1,88 @@
+﻿Build started 3/1/2020 3:48:35 PM.
+     1>Project "D:\Vinh175\Hoc\Fresher\DoAnKTLT\1712912\Level3\Level3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Users\ThinKING\Documents\Microsoft VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\1712912\1712912\Level 3\Level3.cpp"
+         Level3.cpp
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(47): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(113): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(138): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(161): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(171): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(173): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(232): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\stdlib.h(481) : see declaration of '_itoa'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(241): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(247): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(250): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(271): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(313): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(316): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(319): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(390): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(393): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(399): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(402): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(118) : see declaration of 'strcat'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(438): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(195) : see declaration of 'strncpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(453): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\stdlib.h(481) : see declaration of '_itoa'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(458): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\stdlib.h(481) : see declaration of '_itoa'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(498): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(570): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(616): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(480): warning C4101: 'tempt' : unreferenced local variable
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(478): warning C4101: 'temptstr' : unreferenced local variable
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(625): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(626): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\thinking\documents\microsoft vs 2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\vinh175\hoc\fresher\1712912\1712912\level 3\level3.cpp(382): warning C4715: 'SoSanh' : not all control paths return a value
+       Link:
+         C:\Users\ThinKING\Documents\Microsoft VS 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Vinh175\Hoc\Fresher\DoAnKTLT\1712912\Debug\Level3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Vinh175\Hoc\Fresher\DoAnKTLT\1712912\Debug\Level3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Vinh175\Hoc\Fresher\DoAnKTLT\1712912\Debug\Level3.lib" /MACHINE:X86 Debug\Level3.obj
+         Level3.vcxproj -> D:\Vinh175\Hoc\Fresher\DoAnKTLT\1712912\Debug\Level3.exe
+     1>Done Building Project "D:\Vinh175\Hoc\Fresher\DoAnKTLT\1712912\Level3\Level3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.90
